@@ -11,6 +11,24 @@ header{
     padding-right: 20px;
 }
 
+header input{
+    border-radius: 30px;
+    border: 1px solid black;
+    height: 25px;
+}
+
+.barra-pesquisa img{
+    height: 25px;
+    width: 25x;
+    border-radius: 25px;
+}
+
+.barra-pesquisa{
+    padding-top: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .container-grid{
     width: 1200px;
     margin: 0 auto;
